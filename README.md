@@ -817,6 +817,5 @@ This project is licensed under the MIT License for educational and research purp
 For questions, feedback, or collaboration inquiries:
 
 **Jay Supanekar**  
-Email: [your.email@university.edu]  
-GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
+Email: [jay.h.supanekar@vanderbilt.edu]  
 Course: DS 5690 Topics - Fall 2025
