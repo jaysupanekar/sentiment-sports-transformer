@@ -2,7 +2,7 @@
 
 **Author:** Jay Supanekar  
 **Course:** DS 5690 Topics Fall 2025  
-**Institution:** Vanderbilt University
+**Institution:** Vanderbilt University    
 **Date:** December 2025
 
 ---
