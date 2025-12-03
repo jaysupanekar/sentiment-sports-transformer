@@ -592,7 +592,7 @@ Demo prediction: Negative (confidence: 1.000)
 
 The fine-tuned BERT model achieves 83.5% accuracy on the 5-class sentiment classification task, with strong performance across all sentiment categories:
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](confusion_matrix_corrected.png)
 *Figure 3: Confusion matrix showing per-class performance on 7,500-sample test set (15% of TED-S dataset)*
 
 **Per-class performance:**
