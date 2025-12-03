@@ -114,7 +114,7 @@ We utilize the **TED-S (Twitter Events Dataset - Sports)** corpus, specifically 
 
 Our system builds on **BERT-base-uncased** (Devlin et al., 2019) with domain-specific fine-tuning:
 
-![System Pipeline](visualizations/system_pipeline.png)
+![System Pipeline](system_pipeline.png)    
 
 ```
 Input: Tweet text (tokenized)
