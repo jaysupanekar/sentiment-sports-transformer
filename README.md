@@ -862,7 +862,7 @@ sentiment-sports-transformer/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/sentiment-sports-transformer.git
+git clone https://github.com/jaysupanekar/sentiment-sports-transformer.git
 cd sentiment-sports-transformer
 
 # Install required packages
