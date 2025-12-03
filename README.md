@@ -84,6 +84,8 @@ We formulate sentiment classification as a sequence-to-label mapping:
 - **Output:** Distribution P(y | x) over Y = {positive, negative, neutral, excited, disappointed}  
 - **Goal:** Learn function f_θ : V* → Δ(Y) that estimates P(y | x)
 
+In simple terms, we feed a tweet into BERT and ask it to output the probability of each sentiment class (positive, negative, etc.).
+
 ### Model Architecture
 
 **Base Model:** BERT-base-uncased
