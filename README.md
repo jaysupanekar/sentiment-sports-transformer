@@ -616,13 +616,9 @@ Our fine-tuned BERT approach significantly outperforms traditional and generic m
 
 This demonstrates the value of domain-specific fine-tuning, improving from the 75% baseline (generic BERT) to 83.5% accuracy.
 
----
-
-**What This Project Accomplished:**
 ---    
 
-
-**What This Project Accomplished:**    
+## Assessment & Results
 
 ### Limitations of Current Assessment
 
