@@ -259,20 +259,28 @@ The notebook generates four publication-quality visualizations:
 - Demonstrates model confidence on sample tweets
 - Reveals classification boundaries between sentiment classes
 
+![Sentiment_Probabilities](sentiment_probabilities.png)    
+
 **2. attention_heatmap.png**
 - Token-to-token attention weights visualization
 - Shows which words the model focuses on
 - Example: High attention on "amazing", "clutch", "excitement", "!"
+
+![Attention Heatmap](attention_heatmap.png)    
 
 **3. sentiment_trajectory.png**
 - Line plot of sentiment evolution during simulated game
 - Marked with event indicators (goals, penalties, game start/end)
 - Clear correlation between game events and sentiment shifts
 
+![Sentiment Trajectory](sentiment_trajectory.png)    
+
 **4. event_sentiment_analysis.png**
 - Horizontal bar chart of average sentiment by event type
 - Positive bars: goals (+0.999), game_start (+0.999), neutral events (+0.981)
 - Negative bars: goal_against (-0.988), penalty (-0.948)
+
+![Event Sentiment Analysis](event_sentiment_analysis.png)
 
 ### Performance Metrics
 
